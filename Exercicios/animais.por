@@ -1,6 +1,9 @@
+/*Neste problema, você deverá ler 3 palavras que de nem o tipo de animal possível segundo o esquema abaixo, da
+esquerda para a direita. Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras
+fornecidas.
+*/
 programa
 {
-	
 	funcao inicio()
 	{
 		cadeia x, y, z, r=""
@@ -104,7 +107,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 778; 
+ * @POSICAO-CURSOR = 234; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

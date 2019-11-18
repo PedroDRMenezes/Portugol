@@ -1,3 +1,7 @@
+/*Leia um valor de ponto flutuante com duas casas decimais. Este valor representa um valor monetário. 
+A seguir, calcule o menor número de notas e moedas possíveis no qual o valor pode ser decomposto. As notas
+consideradas são de 100, 50, 20, 10, 5, 2. As moedas possíveis são de 1, 0.50, 0.25, 0.10, 0.05 e 0.01. A seguir
+mostre a relação de notas necessárias.*/
 programa
 {
 	inclua biblioteca Tipos
@@ -72,7 +76,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 848; 
+ * @POSICAO-CURSOR = 271; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
